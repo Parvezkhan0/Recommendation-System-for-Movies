@@ -21,11 +21,7 @@ Link to "The Movie Cinema" application: [https://tmc.kishanlal.dev/](https://tmc
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
 
-## Featured in Krish's Live Session on YouTube
-
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
 ## How to get the API key?
 
